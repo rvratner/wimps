@@ -1,0 +1,124 @@
+body {
+	/*background-color: #e5cde5;*/
+	background-color: #000;
+	color: white;
+	font-family: Helvetica, sans-serif;
+}
+
+a, a:visited {
+	color: #999;
+}
+
+img {
+	width: 100%;
+}
+h1 {
+	text-align: center;
+}
+
+h2{
+	text-transform: uppercase;
+}
+
+ul,li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* nav */
+nav {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+nav li:last-child{
+	margin-right: 0;
+}
+
+nav a, nav a:visited {
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+nav .current_page {
+	text-decoration: underline;
+}
+
+figure {
+	width: 100%;
+	max-width: 700px;
+	margin:0 0 30px 0;
+}
+
+figure img {
+	outline: 5px solid #fff;
+}
+
+.logo {
+	width: 300px;
+}
+/* page */
+.page {
+	margin: auto;
+	text-align: center;
+	width: 90%;
+	max-width: 700px;
+}
+
+#pastShowsBtn {
+	border: 1px solid #fff;
+	padding: 5px;
+}
+
+#pastShows {
+	display: none;
+}
+#pastShows.show{
+	display: block;
+}
+#records iframe {
+	height: 300px;
+	width: 300px;
+	margin: 20px;
+
+}
+/*#tunes {
+	max-width: 700px;
+}*/
+
+#videos iframe {
+	margin-bottom: 20px;
+	max-width: 100%;
+}
+
+#photos {
+	max-width: 640px;
+}
+#contact {
+	text-align: left;
+}
+#contact p {
+	line-height: 1.6;
+}
+/* footer */
+.footer {
+	text-align: center;
+	margin-top: 20px;
+}
+
+@media (max-width: 420px){
+	nav li {
+		margin: 0;
+	}
+}
