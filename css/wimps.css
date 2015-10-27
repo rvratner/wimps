@@ -79,11 +79,24 @@ figure img {
 #pastShowsBtn {
 	border: 1px solid #fff;
 	padding: 5px;
+	width: 200px;
+    margin: auto;
+    display: none;
+}
+#pastShowsBtn.show {
+	display: block;
 }
 
 #pastShows {
 	display: none;
+	text-align: left;
+	margin-top: 10px;
 }
+
+#pastShows {
+	list-style-type: disc;
+}
+
 #pastShows.show{
 	display: block;
 }
