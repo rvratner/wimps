@@ -16,28 +16,14 @@ var initMailingList = function(){
 	});
 };
 
-var renderPastShows = function(event){
-	var pastShows = event.data.resultsPage.results.event;
-	var html = '';
-	for (var i = 0; i < pastShows.length; i++){
-		//console.log(pastShows[i])
-		html += '<li>' + pastShows[i].displayName + '</li>'
-	}
-	console.log(html);
-	$('#pastShows').addClass('show');
-	$('#pastShows').html(html);
-
+var togglePastShows = function(){
+	var pastShows = $('#pastShows');
+	pastShows.toggleClass('show');
 };
 
 var showPastEvents = function(){
-	$.ajax({
-		type: "GET",
-		url: 'http://api.songkick.com/api/3.0/artists/4972983-wimps/gigography.json?apikey=pf9vLrRif06zy9B0',
-		success: function(data){
-			$('#pastShowsBtn').addClass('show');
-			$('#pastShowsBtn').click(data, renderPastShows);
-		}
-	});
+	$('#pastShowsBtn').addClass('show');
+	$('#pastShowsBtn').click(togglePastShows);
 };
 
 
