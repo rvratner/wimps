@@ -15,8 +15,8 @@ function getCurPage($page, $pageName)
 	<ul>
 		<li><a <?php getCurPage('shows', $pageName); ?> href="index.php">Shows</a></li>
 		<li><a <?php getCurPage('tunes', $pageName); ?> href="tunes.php">Tunes</a></li> 
-		<li><a <?php getCurPage('tunes', $pageName); ?> href="records.php">Records</a></li> 
-		<li><a <?php getCurPage('videos', $pageName); ?> href="videos.php">Videos</a></li>
+<!-- 		<li><a <?php getCurPage('tunes', $pageName); ?> href="records.php">Records</a></li> 
+ -->		<li><a <?php getCurPage('videos', $pageName); ?> href="videos.php">Videos</a></li>
 		<li><a <?php getCurPage('contact', $pageName); ?> href="contact.php">Contact/Photos</a></li>
 	</ul>
 </nav>
