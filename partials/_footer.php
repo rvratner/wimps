@@ -20,14 +20,14 @@ if ($action=="")    /* display the contact form */
 else                /* send the submitted data */ 
     { 
     $email=$_REQUEST['email']; 
-    $message='send me wimpy emails'; 
+    $message='sent from thesewimps.com'; 
     if (($email=="")) 
         { 
         echo "An email is required, please fill <a href=\"\">the form</a> again."; 
         } 
     else{         
         $from="From: $email\r\nReturn-path: $email"; 
-        $subject="Message sent using your contact form"; 
+        $subject="send me wimpy emails"; 
         mail("wimpsmail@gmail.com", $subject, $message, $from); 
         echo "Email sent!"; 
         } 
