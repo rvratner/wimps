@@ -77,11 +77,15 @@ figure img {
 }
 
 #pastShowsBtn {
-	border: 1px solid #fff;
-	padding: 5px;
-	width: 200px;
-    margin: auto;
+    font-size: 1.154em;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-top: 1em;
+    min-height: 30px;
+    margin: 0;
     display: none;
+    text-transform: capitalize;
+    text-align: left;
 }
 #pastShowsBtn.show {
 	display: block;
@@ -107,6 +111,18 @@ figure img {
 	margin: 20px;
 	display: inline-block;
 
+}
+
+#shop li {
+	text-align: left;
+	vertical-align: top;
+	width: 300px;
+	height: 550px;
+	display: inline-block;
+	margin: 10px;
+}
+#shop li img {
+	height: 300px;
 }
 
 #videos iframe {

@@ -35,7 +35,7 @@
 <h2>Contact:</h2>
 LICENSING INQUIRIES : ben@killrockstars.com</br>
 BAND CONTACT: wimpsmail@gmail.com</br>
-PR QUERIES CAN BE SENT TO : thesewimps@gmail.com</br>
+PR QUERIES CAN BE SENT TO : wimpsmail@gmail.com</br>
 
 <h2>Social Media:</h2>
 
