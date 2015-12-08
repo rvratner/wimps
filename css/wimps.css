@@ -83,17 +83,23 @@ figure img {
     padding-top: 1em;
     min-height: 30px;
     margin: 0;
-    display: none;
     text-transform: capitalize;
     text-align: left;
 }
-#pastShowsBtn.show {
-	display: block;
+#pastShowsBtn a {
+	color: #fff;
+    text-decoration: none;
 }
+#pastShowsBtn a:hover {
+    text-decoration: underline;
+}
+/*#pastShowsBtn.show {
+	display: block;
+}*/
 
 #pastShows {
-	display: none;
-	text-align: left;
+/*	display: none;
+*/	text-align: left;
 	margin-top: 10px;
 }
 

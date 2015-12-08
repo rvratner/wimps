@@ -16,22 +16,22 @@ var initMailingList = function(){
 	});
 };
 
-var togglePastShows = function(){
-	var pastShows = $('#pastShows');
-	pastShows.toggleClass('show');
-};
+// var togglePastShows = function(){
+// 	var pastShows = $('#pastShows');
+// 	pastShows.toggleClass('show');
+// };
 
-var showPastEvents = function(){
-	$('#pastShowsBtn').addClass('show');
-	$('#pastShowsBtn').click(togglePastShows);
-};
+// var showPastEvents = function(){
+// 	$('#pastShowsBtn').addClass('show');
+// 	$('#pastShowsBtn').click(togglePastShows);
+// };
 
 
 $( window ).load(function() {
   initMailingList();
 
-  if ($('.page').attr('id') === 'shows'){
-  	//console.log('hi');
-  	showPastEvents();
-  }
+  // if ($('.page').attr('id') === 'shows'){
+  // 	//console.log('hi');
+  // 	showPastEvents();
+  // }
 });
