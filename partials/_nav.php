@@ -10,7 +10,7 @@ function getCurPage($page, $pageName)
 <!-- <form id="sendEmails" method="POST" action="https://docs.google.com/forms/d/1yOprC9CnSbX13Le6B_zJ5yYKy3w8RkF7X_HV0SXGIOc/formResponse">
 <input id="email" type="text" name="entry.811768935" placeholder="Wimps Mailing List"/><input type="submit">
 </form> -->
-<h1><img class="logo" src="img/logo1.png" alt="wimps logo"/></h1>
+<h1><a href="/"><img class="logo" src="img/logo1.png" alt="wimps logo"/></a></h1>
 <nav>
 	<ul>
 		<li><a <?php getCurPage('shows', $pageName); ?> href="index.php">Shows</a></li>

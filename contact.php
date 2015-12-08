@@ -51,7 +51,7 @@ PR QUERIES CAN BE SENT TO : wimpsmail@gmail.com</br>
 <h2>Press</h2>
 <ul>
 	<li><a href="http://www.avclub.com/article/wimps-unpacks-its-suitcase-new-track-226098">Wimps Unpacts it's Suitcase, A.V. Club</a></li>
-	<li><a href="http://do206.com/p/wimps">D0206</a></li>
+	<li><a href="https://bitchmedia.org/article/new-music-monday-wimps">Bitch Media</a></li>
 	<li><a href="http://www.seattleweekly.com/home/960027-129/exclusive-the-secret-lives-of-punk">Best Punk Band 2015, Seattle Weekly</a></li>
 	<li><a href="http://noisey.vice.com/blog/wimps-are-anything-but-on-new-ep">"Super Me" Review, Noisey/Vice, 2015</a></li>
 	<li><a href="http://www.thisamericanlife.org/radio-archives/episode/516/stuck-in-the-middle">This American Life, featured song</a></li>
