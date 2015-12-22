@@ -22,7 +22,7 @@
 
 <h2>Bio:</h2>
 
-<p>Seattle's punk rock's slackers in chief wimps are a Seattle-based three-piece comprised of scene veterans Rachel Ratner (Butts) on guitar and lead vocals, Matt Nyce (Meth Teeth) on bass and backing vocals, and Dave Ramm (The Intelligence) on drums.</p>
+<p>Seattle's wimps are a Seattle-based three-piece comprised of Rachel Ratner (Butts) on guitar and lead vocals, Matt Nyce (Meth Teeth) on bass and backing vocals, and Dave Ramm (The Intelligence) on drums.</p>
 
 <p>Wimps serve their own brand of rapid-fire punk with a smattering of lo-fi post punk guitar work to create an angular, slightly off-kilter blast.</p>
 
