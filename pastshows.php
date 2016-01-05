@@ -104,12 +104,12 @@
 	<li>08/16 @ Asheville, NC - Odditorium w/ Hot Mess Monster + more</li>
 	<li>08/15 @ Harrisonburg, VA- Crayola</li>
 	<li>08/14 @ Baltimore - GW w/ Goldenwest, Widows Watch, Blackwolf Beach</li>
-	<li>08/13 @ Philly - Kung Fu Necktie</li>
+	<li>08/13 @ Philly - Kung Fu Necktie w/ Jason Anderson, Thick Red Wine,</li>
 	<li>08/12 @ New York - Cakeshop w/ Numerators, Butter the Children, Wierd Fantasy</li>
 	<li>08/11 @ Kingston, NY - BSP Lounge w/ Kitty Little</li>
-	<li>08/10 @ New York - Silent Barn, East Village Radio</li>
+	<li>08/10 @ New York - Silent Barn w/ Future Punx, King Prom, East Village Radio</li>
 	<li>08/08 @ Detroit - PJ's Lager House w/ Tyvek, Sros Lords, Growing Pains</li>
-	<li>08/07 @ Chicago - Wally's World</li>
+	<li>08/07 @ Chicago - Wally's World w/ K9 Sniffies</li>
 	<li>08/06 @ Milwaukee - Quarters Rock N Roll Palace w/ Heartthrob, Pressy clerks</li>
 	<li>08/05 @ Minneapolis - Hexagon Bar w/ Gospel Gossip</li>
 	<li>08/04 @ Fargo - Aquarium</li>
